@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /admin/
+Sitemap: https://thoughtfulreads.cba.pl/sitemap.xml
